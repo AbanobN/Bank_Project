@@ -1,0 +1,86 @@
+﻿  Bank_Project.cpp
+C:\Software_Projects\Bank_Project\Bank_Project\clsString.h(37,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsString.h(54,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsString.h(191,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsString.h(322,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsString.h(370,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsUser.h(247,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_Project.cpp')
+      C:\Software_Projects\Bank_Project\Bank_Project\clsUser.h(23,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsInputValidate.h(98,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsInputValidate.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(242,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_Project.cpp')
+      C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(106,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(115,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(116,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(117,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(318,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(329,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(427,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsAddNewClientScreen.h(25,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsUpdateClientScreen.h(24,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsTotalBalancesScreen.h(53,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsCurrency.h(28,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_Project.cpp')
+  
+C:\Software_Projects\Bank_Project\Bank_Project\clsBankClient.h(294,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Software_Projects\Bank_Project\Bank_Project\clsUser.h(307,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank_Project.vcxproj -> C:\Software_Projects\Bank_Project\x64\Debug\Bank_Project.exe
